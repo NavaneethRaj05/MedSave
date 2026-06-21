@@ -1,0 +1,72 @@
+{
+  "name": "MedSave",
+  "short_name": "MedSave",
+  "description": "India's #1 Medicine Price Comparator — Save up to 90% with Jan Aushadhi",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020d0b",
+  "theme_color": "#0D9488",
+  "scope": "/",
+  "lang": "en-IN",
+  "categories": ["health", "medical", "shopping"],
+  "icons": [
+    {
+      "src": "/icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/home.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "MedSave Home — Compare Prices"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Compare Prices",
+      "url": "/compare",
+      "description": "Compare medicine prices instantly"
+    },
+    {
+      "name": "Scan Medicine",
+      "url": "/scanner",
+      "description": "Scan medicine barcode"
+    }
+  ]
+}

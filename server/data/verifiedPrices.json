@@ -1,0 +1,71 @@
+{
+  "mupirocin": {
+    "medicine": "Mupirocin 2% Ointment",
+    "genericName": "Mupirocin",
+    "category": "Antibiotic Ointment",
+    "stripQty": "15g tube",
+    "sources": [
+      { "name": "Jan Aushadhi (PMBJP)", "emoji": "🏛️", "type": "govt", "price": 47, "mrp": 55, "matchingTitle": "Mupirocin Ointment IP 2% w/w", "deliveryCost": "Store pickup only", "deliveryTime": "Immediate", "note": "Government generic scheme" },
+      { "name": "Apollo Pharmacy",      "emoji": "🔵", "type": "chain",  "price": 105, "mrp": 125, "matchingTitle": "Mupiros 2% Ointment 15g", "deliveryCost": "₹25 (Free over ₹500)", "deliveryTime": "2 hours", "note": "With loyalty discount" },
+      { "name": "MedPlus",              "emoji": "🟢", "type": "chain",  "price": 102, "mrp": 120, "matchingTitle": "Mupipro 2% Ointment 15g", "deliveryCost": "Free pickup / ₹35 delivery", "deliveryTime": "Next day", "note": "MedPlus selling price" },
+      { "name": "PharmEasy (Online)",   "emoji": "📦", "type": "online", "price": 110, "mrp": 130, "matchingTitle": "T Bact 2% Ointment 15g", "deliveryCost": "₹39", "deliveryTime": "1-2 days", "note": "Online with standard discount" },
+      { "name": "Tata 1mg",             "emoji": "🧡", "type": "online", "price": 105, "mrp": 125, "matchingTitle": "T Bact 2% Ointment 15g", "deliveryCost": "₹40 (Free over ₹500)", "deliveryTime": "Next day", "note": "1mg app price with code" },
+      { "name": "Amazon Pharmacy",      "emoji": "🛒", "type": "online", "price": 115, "mrp": 135, "matchingTitle": "T Bact 2% Ointment 15g", "deliveryCost": "Free (Prime) or ₹40", "deliveryTime": "1-2 days", "note": "Prime discount price" },
+      { "name": "Justdial (Suppliers)", "emoji": "📞", "type": "online", "price": 118, "mrp": 138, "matchingTitle": "Mupirocin Ointment 15g Suppliers", "deliveryCost": "Varies by vendor", "deliveryTime": "Same day / 1 day", "note": "Directory average quote" },
+      { "name": "Official Brand Site",  "emoji": "🌐", "type": "brand",  "price": 130, "mrp": 130, "matchingTitle": "T Bact 2% Ointment 15g (GSK)", "deliveryCost": "Not applicable", "deliveryTime": "Manufacturer Direct", "note": "Manufacturer direct MRP" },
+      { "name": "Local Medical Shop",   "emoji": "🏪", "type": "local",  "price": 140, "mrp": 140, "matchingTitle": "T Bact 2% Ointment 15g (Full MRP)", "deliveryCost": "Free pickup", "deliveryTime": "Immediate", "note": "Full MRP, no discount" }
+    ],
+    "aiPriceAnalysis": "Jan Aushadhi PMBJP offers the absolute cheapest price at ₹47, saving you nearly ₹93 vs online retail and ₹113 vs full local retail. Online options like Tata 1mg and Apollo Pharmacy hover around ₹105 with active discount codes.",
+    "awarenessTips": [
+      "Always check for WHO-GMP generic certification when buying mupirocin.",
+      "Local medical shops might charge the full MRP of ₹140; insist on generic equivalents."
+    ],
+    "consumerNote": "Under Indian drug pricing control laws, generic options must have the same therapeutic efficacy as brand-name drugs."
+  },
+  "paracetamol": {
+    "medicine": "Paracetamol 500mg",
+    "genericName": "Paracetamol",
+    "category": "Analgesic / Antipyretic",
+    "stripQty": "10 tablets",
+    "sources": [
+      { "name": "Jan Aushadhi (PMBJP)", "emoji": "🏛️", "type": "govt", "price": 5, "mrp": 6, "matchingTitle": "Paracetamol Tablets IP 500mg", "deliveryCost": "Store pickup only", "deliveryTime": "Immediate", "note": "Government generic scheme" },
+      { "name": "MedPlus",              "emoji": "🟢", "type": "chain",  "price": 12, "mrp": 15, "matchingTitle": "Calpol 500mg Tablet 10s", "deliveryCost": "Free pickup / ₹35 delivery", "deliveryTime": "Next day", "note": "MedPlus selling price" },
+      { "name": "PharmEasy (Online)",   "emoji": "📦", "type": "online", "price": 13, "mrp": 16, "matchingTitle": "Calpol 500mg Tablet 10s", "deliveryCost": "₹39", "deliveryTime": "1-2 days", "note": "Online with standard discount" },
+      { "name": "Tata 1mg",             "emoji": "🧡", "type": "online", "price": 12, "mrp": 15, "matchingTitle": "Crocin 500mg Advance 10s", "deliveryCost": "₹40", "deliveryTime": "Next day", "note": "1mg app price with code" },
+      { "name": "Apollo Pharmacy",      "emoji": "🔵", "type": "chain",  "price": 14, "mrp": 16, "matchingTitle": "Apollo Paracetamol 500mg 10s", "deliveryCost": "₹25", "deliveryTime": "2 hours", "note": "With loyalty discount" },
+      { "name": "Amazon Pharmacy",      "emoji": "🛒", "type": "online", "price": 13, "mrp": 16, "matchingTitle": "Calpol 500mg Tablet 10s", "deliveryCost": "Free (Prime) or ₹40", "deliveryTime": "1-2 days", "note": "Prime discount price" },
+      { "name": "Justdial (Suppliers)", "emoji": "📞", "type": "online", "price": 15, "mrp": 17, "matchingTitle": "Paracetamol 500mg Wholesalers", "deliveryCost": "Varies by vendor", "deliveryTime": "1 day", "note": "Directory average quote" },
+      { "name": "Official Brand Site",  "emoji": "🌐", "type": "brand",  "price": 18, "mrp": 18, "matchingTitle": "Calpol 500mg Brand List", "deliveryCost": "Not applicable", "deliveryTime": "Manufacturer Direct", "note": "Manufacturer direct MRP" },
+      { "name": "Local Medical Shop",   "emoji": "🏪", "type": "local",  "price": 18, "mrp": 18, "matchingTitle": "Calpol 500mg Tablet (Full MRP)", "deliveryCost": "Free pickup", "deliveryTime": "Immediate", "note": "Full MRP, no discount" }
+    ],
+    "aiPriceAnalysis": "Jan Aushadhi PMBJP generic Paracetamol is the cheapest choice at ₹5, saving ₹13 compared to local shops and brand direct pricing. MedPlus and Tata 1mg are reasonable alternatives at ₹12 if immediate pickup or home delivery is preferred.",
+    "awarenessTips": [
+      "Paracetamol 500mg should not exceed ₹20 per strip in India under DPCO rules.",
+      "Check if your local shop has generic Acetaminophen, which is the same as Paracetamol."
+    ],
+    "consumerNote": "Under DPCO guidelines, the retail price of scheduled formulations like Paracetamol is capped by NPPA."
+  },
+  "metformin": {
+    "medicine": "Metformin 500mg",
+    "genericName": "Metformin",
+    "category": "Anti-Diabetic",
+    "stripQty": "10 tablets",
+    "sources": [
+      { "name": "Jan Aushadhi (PMBJP)", "emoji": "🏛️", "type": "govt", "price": 23, "mrp": 27, "matchingTitle": "Metformin Hydrochloride SR IP 500mg", "deliveryCost": "Store pickup only", "deliveryTime": "Immediate", "note": "Government generic scheme" },
+      { "name": "Tata 1mg",             "emoji": "🧡", "type": "online", "price": 70, "mrp": 82, "matchingTitle": "Glycomet 500mg Tablet 10s", "deliveryCost": "₹40", "deliveryTime": "Next day", "note": "1mg app price with code" },
+      { "name": "PharmEasy (Online)",   "emoji": "📦", "type": "online", "price": 72, "mrp": 85, "matchingTitle": "Glycomet 500mg Tablet 10s", "deliveryCost": "₹39", "deliveryTime": "1-2 days", "note": "Online with standard discount" },
+      { "name": "Amazon Pharmacy",      "emoji": "🛒", "type": "online", "price": 75, "mrp": 88, "matchingTitle": "Glycomet 500mg Tablet 10s", "deliveryCost": "Free (Prime) or ₹40", "deliveryTime": "1-2 days", "note": "Prime discount price" },
+      { "name": "Apollo Pharmacy",      "emoji": "🔵", "type": "chain",  "price": 78, "mrp": 90, "matchingTitle": "Glycomet 500mg Tablet 10s", "deliveryCost": "₹25", "deliveryTime": "2 hours", "note": "With loyalty discount" },
+      { "name": "MedPlus",              "emoji": "🟢", "type": "chain",  "price": 74, "mrp": 87, "matchingTitle": "Glycomet 500mg Tablet 10s", "deliveryCost": "Free pickup / ₹35 delivery", "deliveryTime": "Next day", "note": "MedPlus selling price" },
+      { "name": "Justdial (Suppliers)", "emoji": "📞", "type": "online", "price": 80, "mrp": 92, "matchingTitle": "Metformin 500mg Wholesalers", "deliveryCost": "Varies by vendor", "deliveryTime": "1 day", "note": "Directory average quote" },
+      { "name": "Official Brand Site",  "emoji": "🌐", "type": "brand",  "price": 85, "mrp": 85, "matchingTitle": "Glycomet 500mg Brand List", "deliveryCost": "Not applicable", "deliveryTime": "Manufacturer Direct", "note": "Manufacturer direct MRP" },
+      { "name": "Local Medical Shop",   "emoji": "🏪", "type": "local",  "price": 85, "mrp": 85, "matchingTitle": "Glycomet 500mg Tablet (Full MRP)", "deliveryCost": "Free pickup", "deliveryTime": "Immediate", "note": "Full MRP, no discount" }
+    ],
+    "aiPriceAnalysis": "Jan Aushadhi generic Metformin is available at ₹23, saving you up to ₹62 compared to branded medical shops. Online delivery from Tata 1mg at ₹70 is the cheapest convenience option.",
+    "awarenessTips": [
+      "For chronic conditions like Type-2 Diabetes, switching to generic Metformin saves thousands annually.",
+      "Insist on seeing the Jan Aushadhi generic pricing code when ordering."
+    ],
+    "consumerNote": "Insulin and oral anti-diabetic medications are strictly regulated in standard generic formulations."
+  }
+}
