@@ -461,8 +461,6 @@ export default function LandingPage() {
             <button className="lp-btn-primary" style={{ fontSize:17, padding:'17px 38px' }} onClick={goCompare}>
               Compare Prices Free →
             </button>
-            <div className="lp-store-btn"><span style={{ fontSize:22 }}>📱</span><div><div style={{ fontSize:11, opacity:.5 }}>Download on</div><div>App Store</div></div></div>
-            <div className="lp-store-btn"><span style={{ fontSize:22 }}>🤖</span><div><div style={{ fontSize:11, opacity:.5 }}>Get it on</div><div>Google Play</div></div></div>
           </div>
         </div>
       </section>
